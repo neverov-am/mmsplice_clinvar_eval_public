@@ -1,6 +1,6 @@
 # Evaluation of MMSplice pathogenicity scores on ClinVar Chr1
 
-Content:
+## Content:
 - data/:
   - chr1.fa(.fai): chr1 reference sequence
   - chr1.gtf.gz: Ensembl reference annotation
